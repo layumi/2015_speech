@@ -1,0 +1,40 @@
+打开  --dakai_xx.mat   
+  
+关闭  --guanbi_xx.mat
+  
+删除  --shanchu_xx.mat
+  
+文件  --wenjian_xx.mat
+  
+语音  --yuyin_xx.mat
+  
+图像  --tuxiang_xx.mat
+  
+信号  --xinhao_xx.mat
+  
+计算机 --jisuanji_xx.mat
+  
+上海  --shanghai_xx.mat
+  
+北京  --beijing_xx.mat
+  
+Open  --open_xx.mat
+  
+Close  --close_xx.mat
+  
+Delete  --delete_xx.mat
+  
+File  --file_xx.mat
+  
+Speech  --speech_xx.mat
+  
+Image  --image_xx.mat
+  
+Signal  --signal_xx.mat
+  
+Computer  --computer_xx.mat
+  
+河南	--henan_xx.mat
+  
+河北  --hebei_xx.mat
+
