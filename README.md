@@ -10,7 +10,7 @@ The project has two parts: training & testing.
 
 audio_record:       record data
 
-audio_recog:        MFCC+kmeans+LDA/svm
+audio_recog:        MFCC+kmeans+LDA/svm to train
 
 audio_recog_dp:     prepare MFCC data for CNN
 
@@ -18,6 +18,6 @@ cascadeface_24net:  training CNN model
 
 f24net:             CNN structure
 
-audio_test:         use svm/LDA model
+audio_test:         use svm/LDA model to test
 
-audio_test_dp:      use CNN model
+audio_test_dp:      use CNN model to test
