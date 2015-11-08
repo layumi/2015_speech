@@ -9,10 +9,15 @@ And all their rights belong to the orignial author.
 The project has two parts: training & testing.
 
 audio_record:       record data
+
 audio_recog:        MFCC+kmeans+LDA/svm
+
 audio_recog_dp:     prepare MFCC data for CNN
+
 cascadeface_24net:  training CNN model
+
 f24net:             CNN structure
 
 audio_test:         use svm/LDA model
+
 audio_test_dp:      use CNN model
